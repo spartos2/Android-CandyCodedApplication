@@ -33,6 +33,10 @@ public class InfoActivity extends AppCompatActivity {
             startActivity(mapIntent);
     }
 
+    public void createPhoneIntent(View view) {
+        
+    }
+
     // ***
     // TODO - Task 2 - Launch the Google Maps Activity
     // ***
