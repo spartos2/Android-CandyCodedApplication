@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -131,12 +132,40 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="activity info xml update">
+      <created>1601310806480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601310806480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="activity info xml update" />
+    <option name="LAST_COMMIT_MESSAGE" value="activity info xml update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="689" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1601311132535">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="689" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1280.688@0.0.1280.688" timestamp="1601311132535" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1601310796835">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.688@0.0.1280.688" timestamp="1601310796835" />
+    <state x="466" y="121" key="Vcs.Push.Dialog.v2" timestamp="1601310826239">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="466" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.688@0.0.1280.688" timestamp="1601310826239" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1601308503722">
       <screen x="0" y="0" width="1280" height="688" />
     </state>
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.688@0.0.1280.688" timestamp="1601308503722" />
+    <state x="693" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601310992728">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="693" y="304" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.688@0.0.1280.688" timestamp="1601310992728" />
   </component>
 </project>
